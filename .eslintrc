@@ -16,5 +16,7 @@
     "sourceType": "module"
   },
   "plugins": ["prettier", "react"],
-  "rules": { "prettier/prettier": "error" }
+  "rules": {
+    "prettier/prettier": "error"
+  }
 }
